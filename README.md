@@ -42,14 +42,11 @@ This repository contains resources for the Harpie brand such as logos, icons, sc
 
 ## Fonts
 
-### Logo & Display
-
+**Logo & Display**
 - [Montserrat Bold](https://fonts.google.com/specimen/Montserrat)
-
-### Headings & Emphasis
+**Headings & Emphasis**
 - [Source Sans Pro Bold](https://fonts.google.com/specimen/Source+Sans+Pro)
-
-### Body 
+**Body** 
 - [Source Sans Pro Regular](https://fonts.google.com/specimen/Source+Sans+Pro)
 
 ## Other Things To Know
