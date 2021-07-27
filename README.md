@@ -39,6 +39,8 @@ This repository contains resources for the Harpie brand such as logos, icons, sc
 
 ![#1a1e4f](https://via.placeholder.com/25/1a1e4f/000000?text=+) `#1a1e4f`
 
+Placeholder color images courtesy of [Placeholder.com](https://placeholder.com/)
+
 ### Auxiliary
 
 - Text: `#000000`
