@@ -20,29 +20,17 @@ This repository contains resources for the Harpie brand such as logos, icons, sc
 
 ### Branding
 
-![#ffffff](https://via.placeholder.com/25/ffffff/000000?text=+)
-
- `#ffffff`
+![#ffffff](https://via.placeholder.com/25/ffffff/000000?text=+) `#ffffff`
  
-![#e5f1ff](https://via.placeholder.com/25/e5f1ff/000000?text=+)
+![#e5f1ff](https://via.placeholder.com/25/e5f1ff/000000?text=+) `#e5f1ff`
 
- `#e5f1ff`
-
-![#7dc1ff](https://via.placeholder.com/25/7dc1ff/000000?text=+)
-
- `#7dc1ff`
+![#7dc1ff](https://via.placeholder.com/25/7dc1ff/000000?text=+) `#7dc1ff`
  
-![#3e59eb](https://via.placeholder.com/25/3e59eb/000000?text=+)
+![#3e59eb](https://via.placeholder.com/25/3e59eb/000000?text=+) `#e5f1ff`
 
-`#e5f1ff`
+![#1a1e4f](https://via.placeholder.com/25/1a1e4f/000000?text=+) `#1a1e4f`
 
-![#1a1e4f](https://via.placeholder.com/25/1a1e4f/000000?text=+)
-
-`#1a1e4f`
-
-![#1a1e4f](https://via.placeholder.com/25/1a1e4f/000000?text=+)
-
-`#1a1e4f`
+![#1a1e4f](https://via.placeholder.com/25/1a1e4f/000000?text=+) `#1a1e4f`
 
 ### Auxiliary
 
