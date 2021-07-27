@@ -7,7 +7,7 @@ This repository contains resources for the Harpie brand such as logos, icons, sc
 **Horizontal**
 
 ![Harpie Logo Horizontal Gradient](/logo/Harpie-Logo@2x.png "Harpie Logo Horizontal")
-![Harpie Logo Horizontal White](/logo/Harpie White@2x.png "Harpie Logo Horizontal White")
+![Harpie Logo Horizontal White](/logo/Harpie-White@2x.png "Harpie Logo Horizontal White")
 
 **Icon Only**
 
