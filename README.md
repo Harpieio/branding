@@ -6,13 +6,13 @@ This repository contains resources for the Harpie brand such as logos, icons, sc
 
 **Horizontal**
 
-![Harpie Logo Horizontal Gradient](/icons/Harpie Logo@2x.png "Harpie Logo Horizontal")
-![Harpie Logo Horizontal White](/icons/Harpie White@2x.png "Harpie Logo Horizontal White")
+![Harpie Logo Horizontal Gradient](/logo/Harpie-Logo@2x.png "Harpie Logo Horizontal")
+![Harpie Logo Horizontal White](/logo/Harpie White@2x.png "Harpie Logo Horizontal White")
 
 **Icon Only**
 
-![Bitwarden Icon Gradient](/icons/Harpie Icon@2x.png "Harpie Icon Gradient")
-![Bitwarden Icon White](/icons/Harpie Icon White@2x.png "Bitwarden Logo Vertical")
+![Bitwarden Icon Gradient](/icons/Harpie-Icon@2x.png "Harpie Icon Gradient")
+![Bitwarden Icon White](/icons/Harpie-Icon-White@2x.png "Bitwarden Logo Vertical")
 
 [View more colors and sizes](/icons)
 
@@ -21,21 +21,27 @@ This repository contains resources for the Harpie brand such as logos, icons, sc
 ### Branding
 
 ![#ffffff](https://via.placeholder.com/25/ffffff/000000?text=+)
+
  `#ffffff`
  
 ![#e5f1ff](https://via.placeholder.com/25/e5f1ff/000000?text=+)
+
  `#e5f1ff`
 
 ![#7dc1ff](https://via.placeholder.com/25/7dc1ff/000000?text=+)
+
  `#7dc1ff`
  
 ![#3e59eb](https://via.placeholder.com/25/3e59eb/000000?text=+)
+
 `#e5f1ff`
 
 ![#1a1e4f](https://via.placeholder.com/25/1a1e4f/000000?text=+)
+
 `#1a1e4f`
 
 ![#1a1e4f](https://via.placeholder.com/25/1a1e4f/000000?text=+)
+
 `#1a1e4f`
 
 ### Auxiliary
