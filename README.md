@@ -7,12 +7,16 @@ This repository contains resources for the Harpie brand such as logos, icons, sc
 **Horizontal**
 
 ![Harpie Logo Horizontal Gradient](/logo/Harpie-Logo@2x.png "Harpie Logo Horizontal")
+<img src="/logo/Harpie-Logo@2x.png" alt="Harpie Logo Horizontal" height="200" />
 ![Harpie Logo Horizontal White](/logo/Harpie-Logo-White@2x.png "Harpie Logo Horizontal White")
+<img src="/logo/Harpie-Logo-White@2x.png" alt="Harpie Logo Horizontal" height="200" />
 
 **Icon Only**
 
 ![Bitwarden Icon Gradient](/icons/Harpie-Icon@2x.png "Harpie Icon Gradient")
+<img src="/logo/Harpie-Icone@2x.png" alt="Harpie Icon Gradient" height="200" />
 ![Bitwarden Icon White](/icons/Harpie-Icon-White@2x.png "Bitwarden Logo Vertical")
+<img src="/logo/Harpie-Icon-White@2x.png" alt="Harpie Icon Flat" height="200" />
 
 [View more colors and sizes](/icons)
 
