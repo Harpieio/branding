@@ -9,12 +9,17 @@ This repository contains resources for the Harpie brand such as logos, icons, sc
 <img src="/logo/Harpie-Logo@2x.png" alt="Harpie Logo Horizontal" height="200" />
 <img src="/logo/Harpie-Logo-White@2x.png" alt="Harpie Logo Horizontal" height="200" />
 
-**Icon Only**
+**Icon**
 
 <p float="left">
-  <img src="/icons/Harpie-Icon@2x.png" alt="Harpie Icon Gradient" height="200" />
-  <img src="/icons/Harpie-Icon-White@2x.png" alt="Harpie Icon Flat" height="200" />
+  <img src="/icons/Harpie-Icon@2x.png" alt="Harpie Icon Gradient" height="100" />
+  <img src="/icons/Harpie-Icon-White@2x.png" alt="Harpie Icon Flat" height="100" />
 </p>
+
+**Text**
+
+<img src="/text/Harpie-Text@2x.png" alt="Harpie Text Gradient" height="150" />
+<img src="/text/Harpie-Text-White@2x.png" alt="Harpie Text White" height="150" />
 
 [View more colors and sizes](/icons)
 
